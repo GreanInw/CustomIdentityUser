@@ -1,2 +1,3 @@
-# Custom Identity User
-Custom Identity User
+# Sample Custom Identity User
+Using Pattern
+ - Repository Pattern
